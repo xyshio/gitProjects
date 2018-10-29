@@ -23,6 +23,36 @@
   <defs
      id="defs1714">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7365"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7363" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7085"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7083" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0"
@@ -89,7 +119,8 @@
        refX="0"
        id="marker21855"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path21853"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
@@ -104,7 +135,8 @@
        refX="0"
        id="marker21605"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path21603"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
@@ -907,9 +939,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="540.42394"
-     inkscape:cy="317.14501"
+     inkscape:zoom="4"
+     inkscape:cx="240.36344"
+     inkscape:cy="581.22191"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -925,14 +957,44 @@
        type="xygrid"
        id="grid2276" />
     <sodipodi:guide
-       position="88.096952,152.33282"
-       orientation="0,1"
-       id="guide5966"
+       position="110.25235,116.32912"
+       orientation="1,0"
+       id="guide6557"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="88.096955,116.33283"
+       position="96.25235,112.24702"
+       orientation="1,0"
+       id="guide6559"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="89.25,113.84703"
+       orientation="1,0"
+       id="guide6833"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="117.25235,116.32911"
+       orientation="1,0"
+       id="guide6835"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="84.251189,112.86236"
+       orientation="1,0"
+       id="guide6841"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="110.26,116.33111"
        orientation="0,1"
-       id="guide5968"
+       id="guide6854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="110.55771,113.8493"
+       orientation="0,1"
+       id="guide6856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="48.914846,112.5554"
+       orientation="1,0"
+       id="guide6858"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -1326,7 +1388,7 @@
      sodipodi:insensitive="true">
     <path
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19339065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 44.684095,140.45213 v 4.21473 h 0.01654 v 12.02407 h 2.229837 1.984375 V 144.66686 H 176.57689 v 9.00968 l 1.00873,0.002 0.008,-9.01175 h 19.98372 v 3.4029 14.3433 l -1e-5,7.33367 h -5.26626 -14.72468 v -6.94559 l -1.01234,10e-4 v 17.86712 h -37.32924 v -17.86815 l -1.01235,-3e-5 c -0.001,6.463 0.002,13.88928 -0.001,20.35227 h 38.34287 V 197.355 h 1.01235 v -26.59665 h 19.99097 v 26.61901 H 91.088495 v 1.01234 35.03869 H 48.914843 v -52.9115 h -1.984375 -2.229837 v 52.9115 h -0.01654 v 4.21473 h 46.56253 4.214731 v -4.21473 -2.61896 h 38.912358 v 2.61896 4.21473 h 4.21473 63.61834 v -3.25458 h 33.26257 4.21473 v -90.53352 h -4.21473 -9.95754 v 1.84898 2.33836 l 9.95754,0.0274 v 20.27733 h -31.8701 -3.17842 l 1e-5,-7.53571 v -9.7428 l 6.21875,0.0331 v -3.03189 h 8.20828 v -2.18074 -2.03399 h -12.98784 v -3.40289 H 48.914843 44.700631 Z m 72.568255,4.21525 v 36.00351 L 89.25,180.66889 v 2.48408 h 29.01934 v -2.48253 -5.21675 h 19.96209 v -1.01695 h -19.96209 v -29.76936 z m 20.98011,0.008 v 9.00347 l 1.01235,0.003 v -9.00617 z m 62.18838,24.68377 h 35.04851 v 60.81471 H 200.42084 Z M 97.201301,198.3897 h 19.022609 v 28.205 H 92.100838 v -24.52357 l 5.192448,0.0403 z m 20.034949,0 h 20.28662 v 28.205 h -20.28662 z m 21.29896,0 h 23.06474 v 35.03869 h -23.01151 v -3.66076 h -0.0532 z m 24.07709,0 h 34.9653 v 35.03869 h -34.9653 z"
+       d="m 44.684095,140.45213 v 4.21473 h 0.01654 v 12.02407 h 2.229837 1.984375 V 144.66686 H 176.57689 v 9.00968 l 1.00873,0.002 0.008,-9.01175 h 19.98372 v 3.4029 14.3433 l -1e-5,7.33367 h -5.26626 -14.72468 v -6.94559 l -1.01234,10e-4 v 17.86712 h -37.32924 v -17.86815 l -1.01235,-3e-5 c -0.001,6.463 0.002,13.88928 -0.001,20.35227 h 38.34287 V 197.355 h 1.01235 v -26.59665 h 19.99097 v 26.61901 H 91.088495 v 1.01234 35.03869 H 48.914843 v -54.499 h -1.984375 -2.229837 v 54.499 h -0.01654 v 4.21473 h 46.56253 4.214731 v -4.21473 -2.61896 h 38.912358 v 2.61896 4.21473 h 4.21473 63.61834 v -3.25458 h 33.26257 4.21473 v -90.53352 h -4.21473 -9.95754 v 1.84898 2.33836 l 9.95754,0.0274 v 20.27733 h -31.8701 -3.17842 l 1e-5,-7.53571 v -9.7428 l 6.21875,0.0331 v -3.03189 h 8.20828 v -2.18074 -2.03399 h -12.98784 v -3.40289 H 48.914843 44.700631 Z m 72.568255,4.21525 v 36.00351 l -6.99235,-0.002 v 2.48408 h 8.00934 v -2.48253 -5.21675 h 19.96209 v -1.01695 h -19.96209 v -29.76936 z m 20.98011,0.008 v 9.00347 l 1.01235,0.003 v -9.00617 z m 62.18838,24.68377 h 35.04851 v 60.81471 H 200.42084 Z M 97.201301,198.3897 h 19.022609 v 28.205 H 92.100838 v -24.52357 l 5.192448,0.0403 z m 20.034949,0 h 20.28662 v 28.205 h -20.28662 z m 21.29896,0 h 23.06474 v 35.03869 h -23.01151 v -3.66076 h -0.0532 z m 24.07709,0 h 34.9653 v 35.03869 h -34.9653 z"
        id="rect2309"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
@@ -1351,6 +1413,13 @@
        inkscape:export-xdpi="518.35852"
        inkscape:export-ydpi="518.35852"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08316343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6839"
+       width="12"
+       height="2.4798136"
+       x="84.25235"
+       y="180.67088" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2572,81 +2641,85 @@
       </g>
     </g>
     <g
-       style="display:inline;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g1553"
-       transform="translate(49.531548,157.80106)"
-       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
-       inkscape:export-xdpi="311.01999"
-       inkscape:export-ydpi="311.01999">
+       id="g6871"
+       transform="translate(-4.3623708)">
       <g
-         transform="matrix(1.00037,0,0,-0.9209918,33.47155,42.128319)"
-         id="g1510"
-         style="stroke-width:0.10418178;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           y="34.533909"
-           x="6.9838991"
-           height="4.3083515"
-           width="3.6214497"
-           id="rect1506"
-           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1508"
-           width="2.686281"
-           height="3.1958039"
-           x="7.9190679"
-           y="35.090183" />
+         inkscape:export-ydpi="311.01999"
+         inkscape:export-xdpi="311.01999"
+         inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
+         transform="translate(49.531548,157.80106)"
+         id="g1553"
+         style="display:inline;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           style="stroke-width:0.10418178;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g1510"
+           transform="matrix(1.00037,0,0,-0.9209918,33.47155,42.128319)">
+          <rect
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect1506"
+             width="3.6214497"
+             height="4.3083515"
+             x="6.9838991"
+             y="34.533909" />
+          <rect
+             y="35.090183"
+             x="7.9190679"
+             height="3.1958039"
+             width="2.686281"
+             id="rect1508"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           style="stroke-width:0.10418178;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(1.00037,0,0,-0.9209918,33.47155,47.626918)"
+           id="g1536">
+          <rect
+             y="34.533909"
+             x="6.9838991"
+             height="4.3083515"
+             width="3.6214497"
+             id="rect1532"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect1534"
+             width="2.686281"
+             height="3.1958039"
+             x="7.9190679"
+             y="35.090183" />
+        </g>
+        <g
+           style="stroke-width:0.10418178;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g1542"
+           transform="matrix(1.00037,0,0,-0.9209918,33.47155,53.699997)">
+          <rect
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect1538"
+             width="3.6214497"
+             height="4.3083515"
+             x="6.9838991"
+             y="34.533909" />
+          <rect
+             y="35.090183"
+             x="7.9190679"
+             height="3.1958039"
+             width="2.686281"
+             id="rect1540"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
       </g>
-      <g
-         id="g1536"
-         transform="matrix(1.00037,0,0,-0.9209918,33.47155,47.626918)"
-         style="stroke-width:0.10418178;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1532"
-           width="3.6214497"
-           height="4.3083515"
-           x="6.9838991"
-           y="34.533909" />
-        <rect
-           y="35.090183"
-           x="7.9190679"
-           height="3.1958039"
-           width="2.686281"
-           id="rect1534"
-           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
-      <g
-         transform="matrix(1.00037,0,0,-0.9209918,33.47155,53.699997)"
-         id="g1542"
-         style="stroke-width:0.10418178;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           y="34.533909"
-           x="6.9838991"
-           height="4.3083515"
-           width="3.6214497"
-           id="rect1538"
-           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10418178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1540"
-           width="2.686281"
-           height="3.1958039"
-           x="7.9190679"
-           y="35.090183" />
-      </g>
+      <rect
+         inkscape:export-ydpi="311.01999"
+         inkscape:export-xdpi="311.01999"
+         inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
+         y="162.5874"
+         x="-99.741745"
+         height="18.002892"
+         width="6.2735558"
+         id="rect4906"
+         style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.12644446;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="scale(-1,1)" />
     </g>
-    <rect
-       transform="scale(-1,1)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.12644446;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4906"
-       width="6.2735558"
-       height="18.002892"
-       x="-99.741745"
-       y="162.5874"
-       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
-       inkscape:export-xdpi="311.01999"
-       inkscape:export-ydpi="311.01999" />
     <g
        id="g5095"
        inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
@@ -3310,13 +3383,13 @@
        transform="scale(-1,1)"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5798"
-       width="4"
+       width="6"
        height="6.46"
        x="-104.50235"
        y="144.66737" />
     <rect
        y="144.66737"
-       x="-94.50235"
+       x="-86.50235"
        height="6.46"
        width="4"
        id="rect5800"
@@ -3334,11 +3407,11 @@
        id="rect5802"
        width="6"
        height="6.46"
-       x="-100.50235"
+       x="-98.50235"
        y="144.66737" />
     <rect
        y="144.66737"
-       x="-90.50235"
+       x="-92.50235"
        height="6.46"
        width="6"
        id="rect5804"
@@ -3364,13 +3437,13 @@
        d="m 104.84117,98.034053 -1.17439,-0.808347 0.30911,1.391786 -0.61288,-1.287243 -0.4282,1.359877 0.11286,-1.421226 -1.05077,0.96359 0.80835,-1.174391 -1.39179,0.30911 1.28724,-0.612879 -1.35987,-0.428197 1.42122,0.112854 -0.96359,-1.050768 1.17439,0.808346 -0.30911,-1.391786 0.61288,1.287244 0.4282,-1.359877 -0.11285,1.421226 1.05076,-0.96359 -0.80834,1.17439 1.39178,-0.309109 -1.28724,0.612879 1.35988,0.428196 -1.42123,-0.112853 z"
        inkscape:transform-center-x="1.5095614e-006"
        inkscape:transform-center-y="4.8989812e-006"
-       transform="matrix(0,-1.003305,-1.0029207,0,194.49595,251.55866)"
+       transform="matrix(0,-1.003305,-1.0029207,0,192.68656,251.55866)"
        inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
        inkscape:export-xdpi="311.01999"
        inkscape:export-ydpi="311.01999" />
     <rect
        y="-117.25235"
-       x="-153.45811"
+       x="-179.31744"
        height="6.46"
        width="2"
        id="rect5808"
@@ -3388,11 +3461,11 @@
        id="rect5810"
        width="6"
        height="6.46"
-       x="-159.45811"
+       x="-171.31744"
        y="-117.25235" />
     <rect
        y="-117.25235"
-       x="-165.45811"
+       x="-157.31744"
        height="6.46"
        width="6"
        id="rect5812"
@@ -3407,25 +3480,14 @@
        inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
        transform="matrix(0,-1,-1,0,0,0)"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5814"
-       width="8"
-       height="6.46"
-       x="-173.45811"
-       y="-117.25235" />
-    <rect
-       inkscape:export-ydpi="311.01999"
-       inkscape:export-xdpi="311.01999"
-       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
-       transform="matrix(0,-1,-1,0,0,0)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5816"
        width="6"
        height="6.46"
-       x="-179.45811"
+       x="-177.31744"
        y="-117.25235" />
     <g
        id="g5856"
-       transform="translate(17.683684,1.2565308)">
+       transform="translate(17.683684,19.11586)">
       <circle
          inkscape:export-ydpi="311.01999"
          inkscape:export-xdpi="311.01999"
@@ -3463,9 +3525,20 @@
          cy="153.8335"
          r="0.71973562" />
     </g>
+    <rect
+       inkscape:export-ydpi="311.01999"
+       inkscape:export-xdpi="311.01999"
+       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
+       transform="matrix(0,-1,-1,0,0,0)"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5814"
+       width="8"
+       height="6.46"
+       x="-165.31744"
+       y="-117.25235" />
     <g
        id="g5863"
-       transform="translate(18.009631,1.916678)">
+       transform="translate(18.009631,-6.2239928)">
       <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1901"
@@ -4111,87 +4184,91 @@
         </g>
       </g>
     </g>
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15217321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6748"
-       width="3.7240448"
-       height="28"
-       x="-144.39238"
-       y="52.843704"
-       transform="rotate(-90)"
-       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v4.png"
-       inkscape:export-xdpi="518.35852"
-       inkscape:export-ydpi="518.35852" />
     <g
-       id="g8149"
-       transform="translate(0,67.223524)"
-       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v4.png"
-       inkscape:export-xdpi="518.35852"
-       inkscape:export-ydpi="518.35852">
+       id="g8028"
+       transform="translate(-1.2562006)">
       <rect
+         inkscape:export-ydpi="518.35852"
+         inkscape:export-xdpi="518.35852"
+         inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v4.png"
          transform="rotate(-90)"
-         y="52.941402"
-         x="-76.562752"
-         height="18.716782"
-         width="0.68057841"
-         id="rect4404"
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.08442882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4406"
-         d="m 61.132169,75.687767 v -0.680579 h 12.366738 v 0.515319 l 7.388613,5e-6 -7.388613,-5e-6 v 0.101259 0.064 z"
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10000478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g6812"
-       transform="translate(-1.417927,67.223524)"
-       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v4.png"
-       inkscape:export-xdpi="518.35852"
-       inkscape:export-ydpi="518.35852">
-      <path
-         inkscape:connector-curvature="0"
-         id="path6794"
-         d="m 68.283539,68.59849 v 4.906425"
-         style="fill:none;stroke:#000000;stroke-width:0.14433134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         y="52.843704"
+         x="-144.39238"
+         height="28"
+         width="3.7240448"
+         id="rect6748"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15217321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         id="g6802">
-        <ellipse
-           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1663719;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="circle4413"
-           cx="68.283539"
-           cy="65.418343"
-           rx="3.2596664"
-           ry="3.3966181" />
+         inkscape:export-ydpi="518.35852"
+         inkscape:export-xdpi="518.35852"
+         inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v4.png"
+         transform="translate(0,67.223524)"
+         id="g8149">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.08442882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4404"
+           width="0.68057841"
+           height="18.716782"
+           x="-76.562752"
+           y="52.941402"
+           transform="rotate(-90)" />
         <path
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.10000478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 61.132169,75.687767 v -0.680579 h 12.366738 v 0.515319 l 7.388613,5e-6 -7.388613,-5e-6 v 0.101259 0.064 z"
+           id="rect4406"
            inkscape:connector-curvature="0"
-           id="path4415"
-           d="m 65.023865,65.280478 h 6.593143"
-           style="fill:none;stroke:#000000;stroke-width:0.16731094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63233209px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19742492"
-           x="69.727097"
-           y="63.475304"
-           id="text4419"
-           transform="scale(0.9796326,1.0207909)"><tspan
-             sodipodi:role="line"
-             id="tspan4417"
-             x="69.727097"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+      <g
+         inkscape:export-ydpi="518.35852"
+         inkscape:export-xdpi="518.35852"
+         inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v4.png"
+         transform="translate(-1.417927,67.223524)"
+         id="g6812">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.14433134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 68.283539,68.59849 v 4.906425"
+           id="path6794"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6802">
+          <ellipse
+             ry="3.3966181"
+             rx="3.2596664"
+             cy="65.418343"
+             cx="68.283539"
+             id="circle4413"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1663719;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.16731094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 65.023865,65.280478 h 6.593143"
+             id="path4415"
+             inkscape:connector-curvature="0" />
+          <text
+             transform="scale(0.9796326,1.0207909)"
+             id="text4419"
              y="63.475304"
-             style="text-align:center;text-anchor:middle;stroke-width:0.19742492">280</tspan></text>
-        <text
-           id="text4423"
-           y="66.364052"
-           x="69.62352"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63233209px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19742492"
-           xml:space="preserve"
-           transform="scale(0.9796326,1.0207909)"><tspan
-             style="text-align:center;text-anchor:middle;stroke-width:0.19742492"
-             y="66.364052"
+             x="69.727097"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63233209px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19742492"
+             xml:space="preserve"><tspan
+               style="text-align:center;text-anchor:middle;stroke-width:0.19742492"
+               y="63.475304"
+               x="69.727097"
+               id="tspan4417"
+               sodipodi:role="line">280</tspan></text>
+          <text
+             transform="scale(0.9796326,1.0207909)"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63233209px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19742492"
              x="69.62352"
-             id="tspan4421"
-             sodipodi:role="line">230</tspan></text>
+             y="66.364052"
+             id="text4423"><tspan
+               sodipodi:role="line"
+               id="tspan4421"
+               x="69.62352"
+               y="66.364052"
+               style="text-align:center;text-anchor:middle;stroke-width:0.19742492">230</tspan></text>
+        </g>
       </g>
     </g>
     <g
@@ -5114,7 +5191,7 @@
        inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v4.png"
        inkscape:export-xdpi="518.35852"
        inkscape:export-ydpi="518.35852"
-       transform="translate(0,67.223524)">
+       transform="translate(0.04677217,67.267544)">
       <g
          transform="rotate(-90,68.737411,97.279493)"
          id="g2655">
@@ -5566,71 +5643,53 @@
       </g>
     </g>
     <g
-       id="g5983"
-       transform="translate(0,0.95882944)">
-      <g
-         id="g5616"
-         transform="rotate(-90,172.89438,189.7376)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path5600"
-           d="m 176.99893,122.98156 h 3.81224"
-           style="fill:none;stroke:#000000;stroke-width:0.11272725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <g
-           transform="matrix(0,1,1,0,180.62237,38.304021)"
-           id="g5614">
-          <circle
-             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="circle5602"
-             cx="84.677536"
-             cy="2.8372657"
-             r="2"
-             transform="scale(1,-1)" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path5604"
-             d="m 82.677523,-2.756095 h 4.000002"
-             style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58219767px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11866482"
-             x="84.66938"
-             y="2.4702384"
-             id="text5608"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               id="tspan5606"
-               x="84.66938"
-               y="2.4702384"
-               style="text-align:center;text-anchor:middle;stroke-width:0.11866482">80</tspan></text>
-          <text
-             id="text5612"
-             y="4.2065668"
-             x="84.614784"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58219767px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11866482"
-             xml:space="preserve"
-             transform="scale(1,-1)"><tspan
-               style="text-align:center;text-anchor:middle;stroke-width:0.11866482"
-               y="4.2065668"
-               x="84.614784"
-               id="tspan5610"
-               sodipodi:role="line">220</tspan></text>
-        </g>
-      </g>
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.40054601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5618"
-         width="7.9256554"
-         height="2.0526283"
-         x="-109.75151"
-         y="179.93092"
-         transform="scale(-1,1)" />
+       transform="rotate(-90,172.07104,191.89083)"
+       id="g5616">
       <path
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.06339181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 101.74288,181.37251 v -0.67247 h 5.02898 v 0.50918 l 3.0046,1e-5 -3.0046,-1e-5 v 0.10005 0.0632 z"
-         id="path5878"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccc" />
+         style="fill:none;stroke:#000000;stroke-width:0.11272725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 176.99893,122.98156 h 3.81224"
+         id="path5600"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g5614"
+         transform="matrix(0,1,1,0,180.62237,38.304021)">
+        <circle
+           transform="scale(1,-1)"
+           r="2"
+           cy="2.8372657"
+           cx="84.677536"
+           id="circle5602"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 82.677523,-2.756095 h 4.000002"
+           id="path5604"
+           inkscape:connector-curvature="0" />
+        <text
+           transform="scale(1,-1)"
+           id="text5608"
+           y="2.4702384"
+           x="84.66938"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58219767px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11866482"
+           xml:space="preserve"><tspan
+             style="text-align:center;text-anchor:middle;stroke-width:0.11866482"
+             y="2.4702384"
+             x="84.66938"
+             id="tspan5606"
+             sodipodi:role="line">140</tspan></text>
+        <text
+           transform="scale(1,-1)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.58219767px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11866482"
+           x="84.614784"
+           y="4.2065668"
+           id="text5612"><tspan
+             sodipodi:role="line"
+             id="tspan5610"
+             x="84.614784"
+             y="4.2065668"
+             style="text-align:center;text-anchor:middle;stroke-width:0.11866482">220</tspan></text>
+      </g>
     </g>
   </g>
   <g
@@ -6695,7 +6754,7 @@
     <text
        id="text19406"
        y="178.43011"
-       x="101.47191"
+       x="99.191994"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.17130232px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.16284767"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
@@ -6703,14 +6762,14 @@
        inkscape:export-ydpi="311.01999"><tspan
          style="fill:#ff0000;stroke:none;stroke-width:0.16284767"
          y="178.43011"
-         x="101.47191"
+         x="99.191994"
          id="tspan19404"
-         sodipodi:role="line">280</tspan></text>
+         sodipodi:role="line">330</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path19408"
-       d="M 117.12859,179.20464 H 89.563867"
-       style="fill:none;stroke:#ff0000;stroke-width:0.11041619;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker21605);marker-end:url(#marker21855)"
+       d="M 117.12859,179.20464 H 84.251189"
+       style="fill:none;stroke:#ff0000;stroke-width:0.121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker21605);marker-end:url(#marker21855)"
        inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
        inkscape:export-xdpi="311.01999"
        inkscape:export-ydpi="311.01999" />
@@ -6752,7 +6811,7 @@
          y="-81.55983"
          style="fill:#ff0000;stroke:none;stroke-width:0.16284767">870</tspan></text>
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.19697563;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker20197);marker-end:url(#marker20435)"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker20197);marker-end:url(#marker20435)"
        d="M 80.843707,232.11532 V 144.39237"
        id="path20193"
        inkscape:connector-curvature="0"
@@ -6765,22 +6824,44 @@
        inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
        inkscape:connector-curvature="0"
        id="path5950"
-       d="M 100.90753,180.66717 V 144.92301"
+       d="M 96.14504,180.66717 V 144.92301"
        style="fill:none;stroke:#ff0000;stroke-width:0.10193954;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5958);marker-end:url(#marker5962)" />
     <text
        inkscape:export-ydpi="311.01999"
        inkscape:export-xdpi="311.01999"
        inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
        id="text5954"
-       y="-101.5462"
+       y="-96.783707"
        x="161.11125"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.17130232px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.16284767"
        xml:space="preserve"
        transform="rotate(90)"><tspan
          style="fill:#ff0000;stroke:none;stroke-width:0.16284767"
-         y="-101.5462"
+         y="-96.783707"
          x="161.11125"
          id="tspan5952"
          sodipodi:role="line">360</tspan></text>
+    <text
+       inkscape:export-ydpi="311.01999"
+       inkscape:export-xdpi="311.01999"
+       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.17130232px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.16284767"
+       x="72.176949"
+       y="155.6098"
+       id="text7079"><tspan
+         sodipodi:role="line"
+         id="tspan7077"
+         x="72.176949"
+         y="155.6098"
+         style="fill:#ff0000;stroke:none;stroke-width:0.16284767">690</tspan></text>
+    <path
+       inkscape:export-ydpi="311.01999"
+       inkscape:export-xdpi="311.01999"
+       inkscape:export-filename="C:\Users\xyshi\Documents\projekty\3d\blender\house_osiny_v3.png"
+       style="fill:none;stroke:#ff0000;stroke-width:0.17369683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7085);marker-end:url(#marker7365)"
+       d="M 117.12859,156.38433 H 48.914846"
+       id="path7081"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
