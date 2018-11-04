@@ -1095,9 +1095,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="408.08315"
-     inkscape:cy="538.31125"
+     inkscape:zoom="2"
+     inkscape:cx="410.59802"
+     inkscape:cy="203.33515"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -3611,8 +3611,7 @@
      id="layer6"
      inkscape:label="okna-drzwi"
      style="display:inline"
-     transform="translate(0,-87)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-87)">
     <g
        id="g2559"
        transform="matrix(1.6636393,0,0,1.6636393,-65.906566,-43.099665)" />
@@ -3928,7 +3927,7 @@
                y="171.29607"
                x="104.01828"
                id="tspan3252"
-               sodipodi:role="line">210</tspan></text>
+               sodipodi:role="line">220</tspan></text>
         </g>
       </g>
       <g
